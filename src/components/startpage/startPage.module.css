@@ -1,0 +1,25 @@
+
+.p {
+    color: cadetblue;
+    font-weight: 800;
+}
+
+.btn {
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+    background-color: darkcyan;
+    border: 1px solid darkblue;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-weight: 600;
+}
+
+.inp {
+    color: darkcyan;
+    border-radius: 5px;
+    border: 2px solid cadetblue;
+    width: 145px;
+    height: 30px;
+}
+
